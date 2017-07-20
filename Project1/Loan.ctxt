@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Loan()
+comment0.text=Default\ constructor
+comment1.params=annualInterestRate\ numberOfYears\ loanAmount
+comment1.target=Loan(double,\ int,\ double)
+comment1.text=\ Construct\ a\ loan\ with\ specified\ annual\ interest\ rate,\n\ \ \ \ \ \ number\ of\ years,\ and\ loan\ amount\n
+comment2.params=
+comment2.target=double\ getMonthlyPayment()
+comment2.text=Find\ monthly\ payment
+comment3.params=
+comment3.target=double\ getTotalPayment()
+comment3.text=Find\ total\ payment
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CSC202Project1()
+comment0.text=\n\ Constructor\n
+comment1.params=
+comment1.target=void\ createLabel()
+comment1.text=\n\ create\ labels\n
+comment2.params=
+comment2.target=void\ createButton()
+comment2.text=\n\ create\ buttons\ and\ register\ action\ listener\ to\ it\n\ \n
+comment3.params=
+comment3.target=void\ createPanel()
+comment3.text=\n\ create\ panel\ and\ add\ components\ to\ it\n\ \ \ \ then\ add\ the\ panel\ to\ the\ frame\n
+numComments=4
