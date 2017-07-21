@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StudentTable()
+comment0.text=\ Constructor\ creates\ frame,\ calls\ helper\n\ methods\ to\ create\ top\ panel\ and\ bottom\ panel.\n\ Add\ the\ main\ panel\ to\ the\ frame\n
+comment1.params=
+comment1.target=void\ createCenterPanel()
+comment1.text=\n\ Creates\ a\ panel\ where\ user\ enter\ input\ and\ adds\ it\ to\ \n\ the\ center\ of\ the\ main\ panel\n
+comment2.params=
+comment2.target=void\ createYearBox()
+comment2.text=\n\ The\ createYearBox\ creates\ a\ JComboBox\ \n\ and\ adds\ academic\ year\ String\ elements\ to\ it.\ The\ combo\ box\ \n\ is\ then\ added\ to\ the\ center\ panel.\n
+comment3.params=
+comment3.target=void\ createBottomPanel()
+comment3.text=\n\ The\ createBottom\ creates\ a\ bottom\ panel.\n\ Calls\ helper\ methods\ to\ create\ buttons\n\ \n
+comment4.params=
+comment4.target=void\ createSaveButton()
+comment4.text=\n\ The\ createSaveButton\ method\ creates\ a\ button\n\ and\ adds\ it\ to\ the\ bottom\ panel\ and\ registers\ an\n\ action\ listener\ to\ it\n
+comment5.params=
+comment5.target=void\ createSearchButton()
+comment5.text=\n\ The\ createSearchButton\ method\ creates\ a\ button\n\ and\ adds\ it\ to\ the\ bottom\ panel\ and\ registers\ an\n\ action\ listener\ to\ it\n
+comment6.params=
+comment6.target=void\ createNewButton()
+comment6.text=\n\ The\ createNewButton\ method\ creates\ a\ button\n\ and\ adds\ it\ to\ the\ bottom\ panel\ and\ registers\ an\n\ action\ listener\ to\ it\n
+comment7.params=
+comment7.target=void\ clearFields()
+comment7.text=\n\ clears\ all\ fields\n
+numComments=8
