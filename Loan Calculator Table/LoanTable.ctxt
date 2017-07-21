@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LoanTable()
+comment0.text=\n\ The\ Constructor\ creates\ a\ panel\ with\ Border\ Layout\ and\n\ calls\ helper\ methods\ for\ creating\ two\ panels\ namely\ inputPanel\n\ and\ outputPanel.\ The\ main\ panel\ is\ added\ to\ the\ frame.\n
+comment1.params=
+comment1.target=void\ createInputPanel()
+comment1.text=\n\ creates\ a\ panel\ where\ user\ enter\ input\ and\ adds\ it\ to\ \n\ the\ north\ of\ the\ main\ panel\n
+comment2.params=
+comment2.target=void\ createOutputPanel()
+comment2.text=\n\ createOutputPanel\ method\ creates\ a\ panel\ where\ \n\ the\ loan\ table\ is\ displayed.\ User\ cannot\ edit\ this\ area.\n\ This\ output\ panel\ is\ added\ to\ the\ main\ panel\n
+comment3.params=
+comment3.target=void\ createButton()
+comment3.text=\n\ The\ createButton\ button\ method\ creates\ a\ button\n\ and\ adds\ it\ to\ the\ input\ panel\ and\ registers\ an\n\ action\ listener\ to\ it\n
+numComments=4

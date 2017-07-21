@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bunny()
+comment0.text=\n\ Constructor\ creates\ the\ panel\ and\ adds\ it\ to\ the\ frame\n
+comment1.params=
+comment1.target=void\ createPanel()
+comment1.text=\n\ The\ CreatePanel\ method\ creates\ a\ panel\ and\ other\ components\ \n\ and\ adds\ them\ to\ the\ panel.\n
+comment2.params=
+comment2.target=void\ createButton()
+comment2.text=\ The\ createButton\ method\ creates\ a\ button,\ registers\ an\ \n\ \ action\ listener\ and\ adds\ the\ button\ to\ the\ panel.\n\ \n
+comment3.params=n
+comment3.target=int\ countDaEars(int)
+comment3.text=\n\ CountDaEars\ method\ takes\ the\ number\ of\ bunnies\ as\ argument\n\ and\ calculates\ total\ number\ of\ ears\ for\ the\ bunnies.\ \n\ It\ uses\ recursion\ to\ calculate\ the\ ears\ for\ the\ number\ of\ bunnies\ and\ checks\n\ if\ the\ position\ of\ a\ bunny\ in\ the\ line\ is\ even\ or\ odd.\n\ \n
+numComments=4
