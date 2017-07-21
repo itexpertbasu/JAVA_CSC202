@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=FileRead(java.lang.String)
+comment0.text=\ \n\ The\ constructor\ takes\ as\ input\ the\ name\ of\ the\ file\n\ and\ creates\ a\ new\ file\ object.\ The\ Scanner\ object\ reads\n\ input\ from\ the\ file.\n\ \n\ @param\ fileName\ name\ of\ file\ to\ open\n\ @throws\ IOException\ \n
+comment1.params=
+comment1.target=void\ fileReader()
+comment1.text=\n\ The\ fileReader\ method\ reads\ lines\ from\ the\ input\ file\ and\n\ splits\ each\ line\ separated\ by\ any\ white\ space.\ The\ split\ tokens\ are\n\ saved\ in\ an\ array.\ The\ second\ element\ of\ the\ array\ is\ the\ male\ name\ \n\ and\ the\ fourth\ element\ is\ the\ female\ name.\ \n\ We\ add\ those\ names\ from\ the\ arrays\ in\ two\ separate\ arraylists.\n\ This\ process\ repeats\ till\ the\ entire\ file\ is\ read.\n\ \n\ @throws\ IOException\ \n
+comment2.params=
+comment2.target=java.util.ArrayList\ getMaleBabyNames()
+comment2.text=\n\ Returns\ the\ Arraylist\ of\ string\ containing\ male\ baby\ names\n\ @return\ \n
+comment3.params=
+comment3.target=java.util.ArrayList\ getFemaleBabyNames()
+comment3.text=\n\ Returns\ the\ Arraylist\ of\ strings\ containing\ female\ baby\ names\n\ @return\ \n
+comment4.params=babyName
+comment4.target=int\ femaleRanking(java.lang.String)
+comment4.text=\n\ Gets\ the\ index\ of\ the\ name\ from\ the\ male\ name\ array\ list.\n\ The\ index\ plus\ 1\ is\ the\ rank\ of\ the\ baby\ name\ for\ the\ year.\n\ Returns\ the\ rank\ of\ the\ name\n\ @param\ babyName\n\ @return\ \n
+comment5.params=babyName
+comment5.target=int\ maleRanking(java.lang.String)
+comment5.text=\n\ Gets\ the\ index\ of\ the\ name\ from\ the\ female\ name\ array\ list\n\ The\ index\ plus\ 1\ is\ the\ rank\ of\ the\ baby\ name\ for\ the\ year\n\ Returns\ the\ rank\ of\ the\ name\n\ @param\ babyName\n\ @return\ \n
+comment6.params=
+comment6.target=void\ closeFile()
+comment6.text=\ \n\ This\ method\ closes\ the\ input\ file\n
+numComments=7

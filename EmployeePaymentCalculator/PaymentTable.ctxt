@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PaymentTable()
+comment0.text=\n\ The\ Constructor\ creates\ a\ panel\ with\ Border\ Layout\ and\n\ calls\ helper\ methods\ for\ creating\ two\ panels\ namely\ inputPanel\n\ and\ outputPanel.\ The\ main\ panel\ is\ added\ to\ the\ frame.\n
+comment1.params=
+comment1.target=void\ createTopPanel()
+comment1.text=\n\ Creates\ a\ panel\ where\ user\ enter\ input\ and\ adds\ it\ to\ \n\ the\ north\ of\ the\ main\ panel\n
+comment2.params=
+comment2.target=void\ createCenterPanel()
+comment2.text=\n\ creates\ a\ panel\ where\ user\ table\ is\ displayed\ and\ adds\ it\ to\ \n\ the\ center\ of\ the\ main\ panel\n
+comment3.params=
+comment3.target=void\ createBottomPanel()
+comment3.text=\n\ creates\ a\ panel\ where\ user\ total\ is\ shown\ and\ adds\ it\ to\ \n\ the\ south\ of\ the\ main\ panel\n
+comment4.params=
+comment4.target=void\ createRightPanel()
+comment4.text=\n\ creates\ a\ panel\ where\ radio\ buttons\ are\ displayed\ and\ adds\ it\ to\ \n\ the\ right\ of\ the\ main\ panel\n
+comment5.params=
+comment5.target=void\ createAddButton()
+comment5.text=\n\ The\ createButton\ button\ method\ creates\ a\ button\n\ and\ adds\ it\ to\ the\ top\ panel\ and\ registers\ an\n\ action\ listener\ to\ it\n
+comment6.params=
+comment6.target=void\ createRadioButton()
+comment6.text=\n\ The\ createRadioButton\ method\ creates\ radio\ buttons\n\ and\ adds\ it\ to\ the\ panel\ and\ registers\ an\n\ radiobutton\ listener\ to\ it\n
+comment7.params=
+comment7.target=void\ setHeader()
+comment7.text=\n\ setHeader\ method\ creates\ a\ header\ for\ text\ area\ in\ the\ center\ panel\n
+numComments=8

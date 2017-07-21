@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=p\ h
+comment0.target=Payroll(double,\ double)
+comment0.text=\n\ Constructor\ \n
+comment1.params=hrs
+comment1.target=void\ setHours(double)
+comment1.text=\n\ sets\ hours\n
+comment2.params=pay
+comment2.target=void\ setpayRate(double)
+comment2.text=\n\ sets\ hpay\ rate\n
+comment3.params=
+comment3.target=double\ getHours()
+comment3.text=\n\ returns\ hours\n
+comment4.params=pay
+comment4.target=double\ getpayRate(double)
+comment4.text=\n\ returns\ payrate\n
+comment5.params=hrs\ pay
+comment5.target=double\ regularPay(double,\ double)
+comment5.text=\n\ returns\ total\ pay\ for\ regular\ hours\ which\ is\ less\ than\ or\ equal\ to\ 40.0\n
+comment6.params=hrs\ pay
+comment6.target=double\ overtimePay(double,\ double)
+comment6.text=\n\ returns\ total\ pay\ for\ overtime\ hours\ which\ is\ greater\ than\ 40.0\n
+numComments=7

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BankData()
+comment0.text=\n\ Constructs\ a\ BankData\ object\ that\ is\ not\ associated\ with\ a\ file.\n
+comment1.params=filename
+comment1.target=void\ open(java.lang.String)
+comment1.text=\n\ Opens\ the\ data\ file.\n\n\ @param\ filename\ the\ name\ of\ the\ file\ containing\ bank\ account\ information\n
+comment2.params=
+comment2.target=int\ size()
+comment2.text=\n\ Gets\ the\ number\ of\ accounts\ in\ the\ file.\n\n\ @return\ the\ number\ of\ accounts\n
+comment3.params=
+comment3.target=void\ close()
+comment3.text=\n\ Closes\ the\ data\ file.\n
+comment4.params=n
+comment4.target=BankAccount\ read(int)
+comment4.text=\n\ Reads\ a\ bank\ account\ record.\n\ \n\ @param\ n\ the\ index\ of\ the\ account\ in\ the\ data\ file\n\ @return\ a\ bank\ account\ object\ initialized\ with\ the\ file\ data\n
+comment5.params=accountNumber
+comment5.target=int\ find(int)
+comment5.text=\n\ Finds\ the\ position\ of\ a\ bank\ account\ with\ a\ given\ number.\n\n\ @param\ accountNumber\ the\ number\ to\ find\n\ @return\ the\ position\ of\ the\ account\ with\ the\ given\ number,\ or\ -1\ if\ there\n\ is\ no\ such\ account\n
+comment6.params=n\ account
+comment6.target=void\ write(int,\ BankAccount)
+comment6.text=\n\ Writes\ a\ bank\ account\ record\ to\ the\ data\ file.\n\n\ @param\ n\ the\ index\ of\ the\ account\ in\ the\ data\ file\n\ @param\ account\ the\ account\ to\ write\n\ \n\ \n
+numComments=7

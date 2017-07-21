@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=anAccountNumber
+comment0.target=BankAccount(int)
+comment0.text=\n\ Constructs\ a\ bank\ account\ with\ a\ zero\ balance.\n\n\ @param\ anAccountNumber\ the\ account\ number\ for\ this\ account\n
+comment1.params=anAccountNumber\ initialBalance
+comment1.target=BankAccount(int,\ double)
+comment1.text=\n\ Constructs\ a\ bank\ account\ with\ a\ given\ balance.\n\n\ @param\ anAccountNumber\ the\ account\ number\ for\ this\ account\n\ @param\ initialBalance\ the\ initial\ balance\n
+comment2.params=
+comment2.target=int\ getAccountNumber()
+comment2.text=\n\ Gets\ the\ account\ number\ of\ this\ bank\ account.\n\n\ @return\ the\ account\ number\n
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment3.text=\n\ Deposits\ money\ into\ the\ bank\ account.\n\n\ @param\ amount\ the\ amount\ to\ deposit\n
+comment4.params=amount
+comment4.target=void\ withdraw(double)
+comment4.text=\n\ Withdraws\ money\ from\ the\ bank\ account.\n\n\ @param\ amount\ the\ amount\ to\ withdraw\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\n\ Gets\ the\ current\ balance\ of\ the\ bank\ account.\n\n\ @return\ the\ current\ balance\n
+numComments=6
